@@ -9,7 +9,7 @@ def factorial(n):
         n -= 1  # Decrementamos n en cada iteración
     return result
 
-        f = factorial(int(sys.argv[1]))
-        print(f)
+f = factorial(int(sys.argv[1]))
+print(f)
 
 
