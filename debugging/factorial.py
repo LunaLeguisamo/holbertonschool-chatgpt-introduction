@@ -15,3 +15,8 @@ if len(sys.argv) > 1:  # Verificamos que se haya pasado un argumento
         print("Por favor, ingresa un número entero válido.")
 else:
     print("Por favor, ingresa un número entero como argumento.")
+
+
+
+
+    
