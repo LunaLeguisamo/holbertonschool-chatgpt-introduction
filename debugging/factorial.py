@@ -17,6 +17,3 @@ else:
     print("Por favor, ingresa un número entero como argumento.")
 
 
-
-
-    
